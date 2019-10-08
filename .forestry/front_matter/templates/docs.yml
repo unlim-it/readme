@@ -1,6 +1,14 @@
 ---
 label: Docs
 hide_body: false
-fields: []
+fields:
+- name: the_label
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: the label
+  hidden: false
 pages:
 - Theddd.mdx
