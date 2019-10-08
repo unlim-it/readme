@@ -9,7 +9,6 @@ sections:
 - type: document
   path: zxczxczxc
   label: xzczxc
-  match: "**/*"
 - type: directory
   path: ''
   label: zzz
